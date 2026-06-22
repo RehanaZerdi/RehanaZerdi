@@ -1,5 +1,20 @@
-# 💫 About Me:
-A Data Scientist building production-grade language intelligence systems.<br><br>Currently interning at Newton AI Technologies (US Remote) — fine-tuning transformers,<br>shipping NLP pipelines, and deploying models to production APIs.<br><br>- Fine-tuned DistilBERT for multi-label toxic comment classification (5 harm categories)<br>- Built spaCy-based NER + intent extraction pipeline → 100% precision, deployed via FastAPI<br>- RAG system using LangChain + FAISS for semantic document retrieval<br>- Unsupervised audience intelligence: HDBSCAN on multilingual embeddings (Hinglish + EN)<br>- Anomaly detection for influencer fraud: Isolation Forest + LOF, 0.91 AUC-ROC<br><br>Stack: Python · HuggingFace · spaCy · FAISS · FastAPI · LangChain · scikit-learn · SQL<br><br>Open to full-time roles in NLP Engineering / ML Engineering / Data Science (India, Remote)<br>Portfolio: devbyrz.com
+# About Me
+
+AI Engineer building production-grade LLM and NLP systems.
+
+Completed a 6-month US remote internship at Newton AI Technologies —
+fine-tuning transformers, shipping RAG pipelines, and deploying LLM-powered APIs.
+
+- RAG-based AI Tutor: LangChain + FAISS + BM25 hybrid retrieval with RRF reranking (Groq API)
+- Fine-tuned DistilBERT for multi-label toxic comment classification — Macro F1 0.557, ~50ms latency
+- spaCy NLP pipeline for Indian e-commerce reviews with Hinglish normalization — 100% precision
+- Influencer fraud detection: Isolation Forest + LOF ensemble — 0.91 AUC-ROC on 5,000 profiles
+- YouTube comment intelligence: sentence-transformers + Gemini API + LlamaIndex semantic clustering
+
+Stack: Python · HuggingFace · LangChain · FAISS · FastAPI · spaCy · Docker · Groq API · scikit-learn
+
+Open to full-time AI Engineer / GenAI Engineer / ML Engineer roles — Hyderabad or Remote
+Portfolio: devbyrz.com
 
 
 ## 🌐 Socials:
